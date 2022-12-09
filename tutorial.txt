@@ -1,8 +1,6 @@
 hi welcome to the git tutorial
-I am dharmaveera sai ram
+I am dharmaveera sairam
 
-I come from BhadrachalamN e w   t e x t 
- 
-sandeep is a full stack engineer at edtex co
+
 
  
